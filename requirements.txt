@@ -1,0 +1,10 @@
+flask 
+PyPDF2
+docx2txt
+scikit-learn
+google-generativeai
+python-dotenv
+PyMuPDF  # optional - improves PDF extraction fallback
+flask_login
+flask_sqlalchemy
+flask_bcrypt
